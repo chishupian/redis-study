@@ -1,2 +1,2 @@
 # redis
-Redis从入门到跑路教程
+Redis从入门到跑路笔记
